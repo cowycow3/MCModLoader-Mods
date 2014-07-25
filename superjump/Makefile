@@ -2,7 +2,7 @@ export ARCHS = armv7 arm64
 
 include theos/makefiles/common.mk
 
-BUNDLE_NAME = SuperJump
+BUNDLE_NAME = TooManyItems
 SuperJump_FILES = SuperJump.mm
 SuperJump_INSTALL_PATH = /Library/MCLoader/
 SuperJump_FRAMEWORKS = UIKit
