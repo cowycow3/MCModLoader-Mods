@@ -8,9 +8,9 @@
 			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>label</key>
-			<string>SuperJump</string>
+			<string>TooManyItems</string>
 			<key>footerText</key>
-			<string>Define the Jump Height</string>
+			<string>Increase the amount of items</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -18,9 +18,9 @@
 			<key>default</key>
 			<real>1.0</real>
 			<key>defaults</key>
-			<string>com.sharedroutine.mcpe.superjump</string>
+			<string>com.sharedroutine.mcpe.TooManyItems</string>
 			<key>key</key>
-			<string>kSuperJump</string>
+			<string>kTooManyItems</string>
 			<key>min</key>
 			<real>0.42</real>
 			<key>max</key>
