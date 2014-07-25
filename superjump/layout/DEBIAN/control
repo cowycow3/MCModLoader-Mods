@@ -1,5 +1,5 @@
-Package: com.sharedroutine.mcpe.superjump
-Name: SuperJump
+Package: com.sharedroutine.mcpe.TooManyItems
+Name: TooManyItems
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
