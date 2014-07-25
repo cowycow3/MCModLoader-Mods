@@ -1,0 +1,9 @@
+Package: com.sharedroutine.mcpe.speedmod
+Name: SpeedMod
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MCPE Mods tweak!
+Maintainer: @@AUTHOR@@
+Author: @@AUTHOR@@
+Section: Mods
